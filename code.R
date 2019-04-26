@@ -1,4 +1,4 @@
 x <- rnorm(10)
 hist(x)
 fivenum(x)
-y <- rnorm(100)
+y <- rnorm(1000)
